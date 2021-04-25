@@ -7,4 +7,4 @@
 
 ## Acknowledgment
 
-Many thanks to https://greatestadventurers.com/ for providing free books!
+Many thanks to https://greatestadventurers.com/ 
